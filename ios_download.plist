@@ -19,7 +19,7 @@
                    <key>needs-shine</key>
                    <true/>
                    <key>url</key>
-                   <string>https://10.250.67.152:15206/scancode/login-logo.png</string>
+                   <string>http://10.250.67.152:15305/scancode/login-logo.png</string>
                </dict>
       <dict>
                    <key>kind</key>
