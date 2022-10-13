@@ -34,15 +34,13 @@
            <key>metadata</key>
            <dict>
                <key>bundle-identifier</key>
-               <string>inspur.*</string>
-               <key>bundle-version</key>
-               <string>2.0.1</string>
-               <key>kind</key>
-               <string>software</string>
-               <key>subtitle</key>
-               <string>EAgent</string>
-               <key>title</key>
-               <string>EAgent</string>
+              <string>com.inspur.eagent</string>
+              <key>bundle-version</key>
+              <string>2.4.8</string>
+              <key>kind</key>
+              <string>software</string>
+              <key>title</key>
+              <string>EAgent</string>
            </dict>
        </dict>
    </array>
