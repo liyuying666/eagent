@@ -11,7 +11,7 @@
                    <key>kind</key>
                    <string>software-package</string>
                    <key>url</key>
-                   <string>http://196.188.120.240:19001/apk/eagent.ipa</string>
+                   <string>http://196.188.120.240:19001/apk/ios/eagent.ipa</string>
                </dict>
                <dict>
                    <key>kind</key>
@@ -19,7 +19,7 @@
                    <key>needs-shine</key>
                    <true/>
                    <key>url</key>
-                   <string>http://196.188.120.240:19001/apk/login-logo.png</string>
+                   <string>http://196.188.120.240:19001/apk/ios/login-logo.png</string>
                </dict>
       <dict>
                    <key>kind</key>
